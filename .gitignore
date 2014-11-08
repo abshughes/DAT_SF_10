@@ -54,6 +54,4 @@ docs/_build/
 # PyBuilder
 target/
 
-Labs/Lab12/beer_reviews.tar.gz
-
 Labs/Lab11/housing.sqlite
