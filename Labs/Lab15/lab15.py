@@ -42,8 +42,11 @@ def cleanData():
 
 def scoreModels(features, target, folds=10):
     "Calcs crovs-validation scores for multiple algorithms"
+<<<<<<< HEAD
     import pdb
     pdb.set_trace()
+=======
+>>>>>>> 71339f8fb0312152e1064b7334ebf7624c4ed00e
     models = []
     models.append(RandomForestClassifier(random_state=0).fit)
     models.append(LogisticRegression(C=1.0).fit)
