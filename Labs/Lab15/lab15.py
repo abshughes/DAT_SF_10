@@ -43,8 +43,11 @@ def cleanData():
 def scoreModels(features, target, folds=10):
     "Calcs crovs-validation scores for multiple algorithms"
 <<<<<<< HEAD
+<<<<<<< HEAD
     import pdb
     pdb.set_trace()
+=======
+>>>>>>> 71339f8fb0312152e1064b7334ebf7624c4ed00e
 =======
 >>>>>>> 71339f8fb0312152e1064b7334ebf7624c4ed00e
     models = []
